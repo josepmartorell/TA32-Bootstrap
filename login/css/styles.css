@@ -1,0 +1,17 @@
+#container {
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+
+/* image background*/
+body{
+    background: url("../images/Searchs_129.png");
+}
+
+/* all sides */
+#div3,
+#div4 {
+    border: 1px solid black; 
+
+}
+
